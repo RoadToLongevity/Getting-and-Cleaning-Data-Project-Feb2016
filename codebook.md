@@ -125,3 +125,4 @@ fBodyBodyGyroMag.meanFreq
 fBodyBodyGyroJerkMag.mean  
 fBodyBodyGyroJerkMag.std  
 fBodyBodyGyroJerkMag.meanFreq  
+
